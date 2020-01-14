@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "36840346534",
+    "firebase_url": "https://learn-lusoga.firebaseio.com",
+    "project_id": "learn-lusoga",
+    "storage_bucket": "learn-lusoga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36840346534:android:b1a8fc8e03a366aab7b567",
+        "android_client_info": {
+          "package_name": "com.devsam.learnlusoga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36840346534-blh79b5fulf6d03r5s7p1jbcfof5rsig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqRpZq57kwjSnHoqpfHpVZ0QEdbAfJ7hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36840346534-blh79b5fulf6d03r5s7p1jbcfof5rsig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36840346534:android:f7eecd22884f2aaeb7b567",
+        "android_client_info": {
+          "package_name": "com.example.learnlusoga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36840346534-ghnvm9qvf03o9f56nemvj7651c7uqqbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learnlusoga",
+            "certificate_hash": "02a6308b8f224b7e858aea8f915a265a979ea992"
+          }
+        },
+        {
+          "client_id": "36840346534-blh79b5fulf6d03r5s7p1jbcfof5rsig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqRpZq57kwjSnHoqpfHpVZ0QEdbAfJ7hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36840346534-blh79b5fulf6d03r5s7p1jbcfof5rsig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36840346534:android:1fa228e6f0f35165b7b567",
+        "android_client_info": {
+          "package_name": "devsam.com.gracesmssender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36840346534-blh79b5fulf6d03r5s7p1jbcfof5rsig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqRpZq57kwjSnHoqpfHpVZ0QEdbAfJ7hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36840346534-blh79b5fulf6d03r5s7p1jbcfof5rsig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
